@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maham Nadeem</h1>
-<h3 align="center">Frontend Developer from Pakistan</h3>
+<h3 align="center">A Frontend Developer and Computer Engineer from Pakistan</h3>
 <img align="right" alt="frontend" width="400" src="https://www.stc.org/notebook/wp-content/uploads/sites/26/2017/06/Coding.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maham1033&label=Profile%20views&color=0e75b6&style=flat" alt="maham1033" /> </p>
