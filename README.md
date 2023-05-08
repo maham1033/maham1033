@@ -3,6 +3,15 @@
 <img align="right" alt="frontend" width="400" src="https://www.stc.org/notebook/wp-content/uploads/sites/26/2017/06/Coding.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maham1033&label=Profile%20views&color=0e75b6&style=flat" alt="maham1033" /> </p>
 
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Engineer;UET+Lahore;Web+Developer;Direcotr+of+Finance+at+Zimal+UET;Member+of+UET-Tribune;Member+of+ACM-UET;Member+of+MLSA+Mentorship" alt="Typing SVG" /></a>
+
+<p align="center"> 
+  Profile Views<br>
+  <img src="https://profile-counter.glitch.me/MahamNadeem/count.svg" />
+</p>
+
 <h3> About Me </h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms ,C++ and web development,**
