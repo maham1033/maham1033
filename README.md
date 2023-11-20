@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Programming and frontend related projects**
 
-- 💬 Ask me about **Python,Java and frontend development**
+- 💬 Ask me about **Python,Java,design,c++ and frontend development**
 
 - 📫 How to reach me **mahamnadeem1033@gmail.com**
 
