@@ -6,11 +6,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Computer+Engineer;UET+Lahore;Web+Developer;Direcotr+of+Finance+at+Zimal+UET;Member+of+UET-Tribune;Member+of+ACM-UET;Member+of+MLSA+Mentorship" alt="Typing SVG" /></a>
 <h3> About Me </h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms ,C++ and web development,**
+- 🌱 I’m currently learning **Software Enginerring, DBMS and Operating System**
 
-- 👯 I’m looking to collaborate on **Python and frontend related projects**
+- 👯 I’m looking to collaborate on **Programming and frontend related projects**
 
-- 💬 Ask me about **Python, Java and frontend development**
+- 💬 Ask me about **Python,Java and frontend development**
 
 - 📫 How to reach me **mahamnadeem1033@gmail.com**
 
@@ -19,7 +19,7 @@
   <ul>
     <li>Director of Finance at Zimal-UET</li>
     <li>Member of UET-Tribune</li>
-    <li>Member of ACM-UET</li>
+    <li>Co-Lead of web development at ACM-UET</li>
     <li>Member of MLSA Mentorship</li>
   </ul>
 </div>
